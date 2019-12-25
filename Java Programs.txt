@@ -1,0 +1,59 @@
+To reverse a given string with preserving the position of spaces?
+
+Find all permutaions of string.
+
+To append agiven string to a text file?
+
+write a java program to find number of charachers ,number of words and number of lines in a text file.?
+
+How to read a matrix from console in java?
+
+Write a java program to print floyds triangle? -done
+
+Write a java program to print pyramid pattern of numbers? 
+
+Write a java program to find missing number in array in jaVA 
+
+Write a java program to find factorial for large number?
+
+Write a java program to find factors of number from 1 to 100 
+
+Write a java program  to print numbers in java up to 10 with out using loops?
+
+How to sort elements in array in asc and desc order in java? - Arrays.sort 
+
+Write a java program to find factorial of a number in java?
+
+write a java program to find second largest element in the array in the java?
+
+Write java program to print Characters count in each word in String
+
+Write a java program to add elements in an array in java?
+
+Write a java program to find largest of three numbers? 
+
+Write a java program to print multiplication table?
+
+Write a java program to print star pattern? done
+
+Write a java program to print Ascii values of a Character ? 
+
+write a java program to implement bubble sort - Part 2? 
+
+Write a java program to print fibonacci series ?
+
+Write a java program to sort characters in String in java? 
+
+How to sort hashmap keys in java? 
+
+Write a java program to convert Fahrenheit to celsius? 
+
+Write a java program to print alphabets? 
+
+Write a java program to check given input character is alphabet or not ?
+
+How to reverse the order of elements in arraylist in java?
+
+How to swap elements in list in java?
+
+Write a java program to find sum of 10 numbers in java?
